@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/limaantonio/nlw_server-ecoleta
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/limaantonio/nlw_web-ecoleta
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/limaantonio/mobile-ecoleta
